@@ -1,2 +1,3 @@
 Requarementss Of The file
   1. pip install opencv-python
+  2. The .xml cascade file should be present in current Working Directory
